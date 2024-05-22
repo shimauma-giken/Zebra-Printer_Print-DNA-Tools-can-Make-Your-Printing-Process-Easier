@@ -12,7 +12,9 @@ https://www.zebra.com/jp/ja/software/printer-software.html
 
 ## 用途に合わせて選べる印刷ツール
 
-印刷現場でちょっとしたラベルを印刷する処理を作成したい、お客様に向けて効果的なデモ処理を見せたいということがあるかと思います。その時にゼブラで推奨しているツールが下記の５つです。
+印刷現場でちょっとしたラベルを印刷する処理を作成したい、お客様に向けて効果的なデモ処理を見せたいということがあるかと思います。その時にゼブラで推奨しているツールが下記の6つです。多くのツールがリリースされている中、違いが知りたいというお声を多くいただくようになったので、まとめてみました。
+<br>
+
 
 1. ZebraDesigner Professional
 2. Zebra Print
@@ -163,3 +165,8 @@ https://www.zebra.com/jp/ja/software/printer-software/browser-print.html
 
 https://www.zebra.com/jp/ja/software/printer-software/multiplatform-sdk.html<br>
 https://www.zebra.com/us/en/support-downloads/printer-software/zebra-basic-interpreter-zbi.html<br>
+
+
+<br>
+<br>
+
