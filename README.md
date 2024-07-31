@@ -54,8 +54,7 @@ https://www.zebra.com/jp/ja/software/printer-software/zebradesigner.html
 
 ## 2. Zebra Print for Android
 
-<img width="200" src="https://docs.zebra.com/content/dam/techpubs/media/printers/software/zebraprint/g-zprint-label-printer.png/jcr:content/renditions/cq5dam.web.1280.1280.jpeg">
-<img width="200" src="https://docs.zebra.com/content/dam/techpubs/media/printers/software/zebraprint/g-zprint-browser-printer-settings.png/jcr:content/renditions/cq5dam.web.1280.1280.jpeg">
+<img width="200" src="https://docs.zebra.com/content/dam/techpubs/media/printers/software/zebraprint/g-zprint-label-printer.png/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"> <img width="200" src="https://docs.zebra.com/content/dam/techpubs/media/printers/software/zebraprint/g-zprint-browser-printer-settings.png/jcr:content/renditions/cq5dam.web.1280.1280.jpeg">
 
 
 「現在Android上で表示されているラベルを印刷したい」「ラベル印刷処理の開発したくない」という要望を解決するために開発されたAndroidアプリになります。Android上で印刷ドライバのような働きをします。アプリをインストールすることにより、お使いのブラウザやPDFリーダなどから任意のデータを印刷することができます。自分で作成したPDFデータも印刷ができるので、デモ活動でも頻繁に用いられます。
@@ -68,6 +67,10 @@ https://www.zebra.com/jp/ja/software/printer-software/zebradesigner.html
 #### ・無償提供ツール
 
 <br>
+
+### ■ Zebra Print まとめ情報
+
+https://github.com/shimauma-giken/Zebra-Printer_LInk-OS_What-is-Zebra-Print
 
 ### ■ 製品リンク
 
