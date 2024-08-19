@@ -148,7 +148,7 @@ https://www.zebra.com/jp/ja/software/printer-software/browser-print.html
 
 <img width="500" src="https://i.ytimg.com/vi/avSDSwtQ_e0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGFkgWShZMA8=&rs=AOn4CLANCpeluQjph-ovswqmtRf41bsgfw">
 
-企業向けの印刷処理は十人十色で、上記でご紹介した汎用ツールでは要件に合わないことがあります。近年は特に「より早く」「自動化」がキーワードとなってきています。このような高度な対応をお助けするために開発者向けのSDKやプリンタ拡張言語（ZBI）をご用意させていただいています。これらを有効活用することにより、より高度な制御をプリンタにて行うことができるようになります。
+企業向けの印刷処理は十人十色で、上記でご紹介した汎用ツールでは要件に合わないことがあります。近年は特に「より早く」「自動化」がキーワードとなってきています。このような高度な対応をお助けするために開発者向けのSDKやプリンタ拡張言語（ZBI）をZebra社は用意しています。これらを有効活用することにより、より高度な制御をプリンタにて行うことができるようになります。
 
 ### ■ よくあるお問い合わせ
 
